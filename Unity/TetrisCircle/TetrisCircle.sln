@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8B5176B0-215F-E956-0D0E-5CF88A41821F}") = "TetrisCircle", "Assembly-CSharp.csproj", "{CBD1F622-360B-DDF1-0249-C912CC2756B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD1F622-360B-DDF1-0249-C912CC2756B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD1F622-360B-DDF1-0249-C912CC2756B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD1F622-360B-DDF1-0249-C912CC2756B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD1F622-360B-DDF1-0249-C912CC2756B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

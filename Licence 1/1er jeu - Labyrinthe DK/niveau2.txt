@@ -1,0 +1,19 @@
+D   M   M    MM
+ MM   M M MM  
+ MMMMMM   MMMM
+   MMM MMMM   
+MM M M  MM  MMM
+M    MMMMM   MM
+  MMM    MMM M
+ MM   M M MM  
+  M MM  M   MM
+M   MMM  MMM 
+MMM MM M  M MM
+M   M   MM    M
+  MM  M  M  M M
+M  M MM  M MM M
+MM   MMM   M  A
+
+d = sprite de départ
+a = sprite d'arrivée
+m = sprite de mur

@@ -1,0 +1,82 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jimmy\Documents\Jeu vidéo\Ludum Dare 32 - 17-19 Avril 2015\KillingLightV1.3_TeamFlat226_Bordeaux_LD32\KillingLightV1.3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jimmy\Documents\Jeu vidéo\Ludum Dare 32 - 17-19 Avril 2015\KillingLightV1.3_TeamFlat226_Bordeaux_LD32\KillingLightV1.3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jimmy\Documents\Jeu vidéo\Ludum Dare 32 - 17-19 Avril 2015\KillingLightV1.3_TeamFlat226_Bordeaux_LD32\KillingLightV1.3_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Jimmy\Documents\Jeu vidéo\Ludum Dare 32 - 17-19 Avril 2015\KillingLightV1.3_TeamFlat226_Bordeaux_LD32\KillingLightV1.3_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Jimmy\Documents\Jeu vidéo\Ludum Dare 32 - 17-19 Avril 2015\KillingLightV1.3_TeamFlat226_Bordeaux_LD32\KillingLightV1.3_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Jimmy\Documents\Jeu vidéo\Ludum Dare 32 - 17-19 Avril 2015\KillingLightV1.3_TeamFlat226_Bordeaux_LD32\KillingLightV1.3_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Jimmy\Documents\Jeu vidéo\Ludum Dare 32 - 17-19 Avril 2015\KillingLightV1.3_TeamFlat226_Bordeaux_LD32\KillingLightV1.3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jimmy\Documents\Jeu vidéo\Ludum Dare 32 - 17-19 Avril 2015\KillingLightV1.3_TeamFlat226_Bordeaux_LD32\KillingLightV1.3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Jimmy\Documents\Jeu vidéo\Ludum Dare 32 - 17-19 Avril 2015\KillingLightV1.3_TeamFlat226_Bordeaux_LD32\KillingLightV1.3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jimmy\Documents\Jeu vidéo\Ludum Dare 32 - 17-19 Avril 2015\KillingLightV1.3_TeamFlat226_Bordeaux_LD32\KillingLightV1.3_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: a138 -> priority: 1 
+  Thread -> id: c7e0 -> priority: 1 
+Platform assembly: C:\Users\Jimmy\Documents\Jeu vidéo\Ludum Dare 32 - 17-19 Avril 2015\KillingLightV1.3_TeamFlat226_Bordeaux_LD32\KillingLightV1.3_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.573717 ms
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 221.
+Total: 0.506204 ms (FindLiveObjects: 0.013137 ms CreateObjectMapping: 0.015600 ms MarkObjects: 0.126037 ms  DeleteObjects: 0.351428 ms)
+
+Platform assembly: C:\Users\Jimmy\Documents\Jeu vidéo\Ludum Dare 32 - 17-19 Avril 2015\KillingLightV1.3_TeamFlat226_Bordeaux_LD32\KillingLightV1.3_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+UnloadTime: 1.109297 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 575.
+Total: 0.389198 ms (FindLiveObjects: 0.032433 ms CreateObjectMapping: 0.017242 ms MarkObjects: 0.312015 ms  DeleteObjects: 0.027506 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.897455 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 570.
+Total: 0.428610 ms (FindLiveObjects: 0.043928 ms CreateObjectMapping: 0.019706 ms MarkObjects: 0.351428 ms  DeleteObjects: 0.012726 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.738163 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1005.
+Total: 0.354712 ms (FindLiveObjects: 0.032843 ms CreateObjectMapping: 0.025864 ms MarkObjects: 0.261518 ms  DeleteObjects: 0.034485 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.649031 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1005.
+Total: 0.586260 ms (FindLiveObjects: 0.080467 ms CreateObjectMapping: 0.035717 ms MarkObjects: 0.462275 ms  DeleteObjects: 0.006568 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.095749 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1005.
+Total: 0.935636 ms (FindLiveObjects: 0.140817 ms CreateObjectMapping: 0.046391 ms MarkObjects: 0.740215 ms  DeleteObjects: 0.006979 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.919624 ms
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 462.
+Total: 0.413831 ms (FindLiveObjects: 0.017242 ms CreateObjectMapping: 0.016832 ms MarkObjects: 0.215126 ms  DeleteObjects: 0.164218 ms)
+

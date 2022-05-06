@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F9F11037-CDD1-1C64-EE06-0BC2A31AE987}") = "Find The Exit !", "Assembly-CSharp.csproj", "{5C64D589-479F-5202-473D-5A3C23F3861A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C64D589-479F-5202-473D-5A3C23F3861A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C64D589-479F-5202-473D-5A3C23F3861A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C64D589-479F-5202-473D-5A3C23F3861A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C64D589-479F-5202-473D-5A3C23F3861A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

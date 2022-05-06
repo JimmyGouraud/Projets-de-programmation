@@ -1,0 +1,8 @@
+Commandes Git :
+
+git pull force :
+ - git fetch --all
+ - git reset --hard origin/master
+
+Modifie la branche de distance :
+ - git branch --set-upstream

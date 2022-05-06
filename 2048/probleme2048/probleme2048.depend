@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1423566412 source:c:\users\jimmy\documents\jeu vidéo\jeu\2048\probleme2048\grid_test.c
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+	<math.h>
+	"grid.h"
+
+1423566174 c:\users\jimmy\documents\jeu vidéo\jeu\2048\probleme2048\grid.h
+	<stdbool.h>
+
+1423566547 source:c:\users\jimmy\documents\jeu vidéo\jeu\2048\probleme2048\main.c
+	<stdlib.h>
+	<stdio.h>
+	<assert.h>
+	<math.h>
+	"grid.h"
+

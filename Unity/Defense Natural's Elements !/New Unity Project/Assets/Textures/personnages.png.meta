@@ -1,0 +1,1137 @@
+fileFormatVersion: 2
+guid: dd43cb4f083e9b0448c310a0b724d502
+timeCreated: 1455647713
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: personnages_0
+    21300002: personnages_1
+    21300004: personnages_2
+    21300006: personnages_3
+    21300008: personnages_4
+    21300010: personnages_5
+    21300012: personnages_6
+    21300014: personnages_7
+    21300016: personnages_8
+    21300018: personnages_9
+    21300020: personnages_10
+    21300022: personnages_11
+    21300024: personnages_12
+    21300026: personnages_13
+    21300028: personnages_14
+    21300030: personnages_15
+    21300032: personnages_16
+    21300034: personnages_17
+    21300036: personnages_18
+    21300038: personnages_19
+    21300040: personnage
+    21300042: personnages_21
+    21300044: personnages_22
+    21300046: personnages_23
+    21300048: personnages_24
+    21300050: personnages_25
+    21300052: personnages_26
+    21300054: personnages_27
+    21300056: personnages_28
+    21300058: personnages_29
+    21300060: personnages_30
+    21300062: personnages_31
+    21300064: personnages_32
+    21300066: personnages_33
+    21300068: personnages_34
+    21300070: personnages_35
+    21300072: personnages_36
+    21300074: personnages_37
+    21300076: personnages_38
+    21300078: personnages_39
+    21300080: personnages_40
+    21300082: personnages_41
+    21300084: personnages_42
+    21300086: personnages_43
+    21300088: personnages_44
+    21300090: personnages_45
+    21300092: personnages_46
+    21300094: personnages_47
+    21300096: personnages_48
+    21300098: personnages_49
+    21300100: personnages_50
+    21300102: personnages_51
+    21300104: personnages_52
+    21300106: personnages_53
+    21300108: personnages_54
+    21300110: personnages_55
+    21300112: personnages_56
+    21300114: personnages_57
+    21300116: personnages_58
+    21300118: personnages_59
+    21300120: personnages_60
+    21300122: personnages_61
+    21300124: personnages_62
+    21300126: personnages_63
+    21300128: personnages_64
+    21300130: personnages_65
+    21300132: personnages_66
+    21300134: personnages_67
+    21300136: personnages_68
+    21300138: personnages_69
+    21300140: personnages_70
+    21300142: personnages_71
+    21300144: personnages_72
+    21300146: personnages_73
+    21300148: personnages_74
+    21300150: personnages_75
+    21300152: personnages_76
+    21300154: personnages_77
+    21300156: personnages_78
+    21300158: personnages_79
+    21300160: personnages_80
+    21300162: personnages_81
+    21300164: personnages_82
+    21300166: personnages_83
+    21300168: personnages_84
+    21300170: personnages_85
+    21300172: personnages_86
+    21300174: personnages_87
+    21300176: personnages_88
+    21300178: personnages_89
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: personnages_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 27
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 27
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 27
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 224
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 128
+        width: 27
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 192
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 192
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 192
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 192
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 192
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 192
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnage
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 160
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 160
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 160
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 160
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 160
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_33
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_34
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 128
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 128
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 105
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_44
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 64
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_46
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 64
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_47
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_48
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 64
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_49
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 89
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_50
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 89
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_51
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 85
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_52
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_53
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 89
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_54
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 89
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_55
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_56
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 71
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_57
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 67
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_58
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 32
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_59
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 32
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_61
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 32
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_62
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 32
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_63
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 32
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_65
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 51
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_66
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_67
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 51
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_68
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 51
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_69
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_70
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 51
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_71
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_72
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 47
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_73
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_74
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 32
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_75
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 32
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_76
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_77
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_78
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_79
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_80
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_81
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_82
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_83
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_84
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 4
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_85
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_86
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_87
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 4
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_88
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: personnages_89
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 4
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
